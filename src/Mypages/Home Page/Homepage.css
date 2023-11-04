@@ -1,0 +1,213 @@
+*{
+    background-color: wheat;
+    margin: 0px;
+    padding: 0px;
+}
+img#logo1{
+    height: 120px;
+    width: 150px;
+    border-style: solid;
+    border-color: rgb(92, 40, 3) ;
+}
+.topbar{
+    display: flex;
+    background-color: wheat;
+    border-style: solid;
+    border-color: rgb(92, 40, 3);
+    position: relative;
+}
+.anna{
+    margin-left: 200px;
+    padding: 10px;
+}
+.auctions{
+    font-size: 65px;
+    color: rgb(92, 40, 3);
+}
+.since{
+    color: rgb(92, 40, 3);
+    font-style: italic;
+}
+
+.bidding{
+    background-color: rgb(92, 40, 3);
+    height: 250px;
+    width: 95.7%;
+    color: wheat;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+    font-size: 25px;
+    border-color: black;
+    border-style: dotted;
+    border-width: 5px;
+}
+
+.pleasekeep{
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+    font-size: 25px;
+    color: rgb(92, 40, 3);
+}
+
+.slide1{
+    height: 400px;
+    width: 445px;
+    background-color: rgb(92, 40, 3);
+    position: relative;
+    text-align: center;
+    color: wheat;
+    font-size: 20px;
+    border-color: wheat;
+    border-style: dotted;
+    border-width: 3px;
+    
+}
+img#image1{
+    position: absolute;
+    left: 25px;
+    top: 30px;
+    height: 350px;
+    width: 400px;
+}
+
+.slide2{
+    height: 400px;
+    width: 445px;
+    background-color: rgb(92, 40, 3);
+    position: relative;
+    text-align: center;
+    color: wheat;
+    font-size: 20px;
+    border-color: wheat;
+    border-style: dotted;
+    border-width: 3px;
+}
+img#image2{
+    position: absolute;
+    left: 25px;
+    top: 30px;
+    height: 350px;
+    width: 400px;
+}
+
+.slide3{
+    height: 400px;
+    width: 445px;
+    background-color: rgb(92, 40, 3);
+    position: relative;
+    text-align: center;
+    color: wheat;
+    font-size: 20px;
+    border-color: wheat;
+    border-style: dotted;
+    border-width: 3px;
+}
+img#image3{
+    position: absolute;
+    left: 25px;
+    top: 30px;
+    height: 350px;
+    width: 400px;
+}
+
+.slide4{
+    height: 400px;
+    width: 445px;
+    background-color: rgb(92, 40, 3);
+    position: relative;
+    text-align: center;
+    color: wheat;
+    font-size: 20px;
+    border-color: wheat;
+    border-style: dotted;
+    border-width: 3px;
+}
+img#image4{
+    position: absolute;
+    left: 25px;
+    top: 30px;
+    height: 350px;
+    width: 400px;
+}
+
+.slide5{
+    height: 400px;
+    width: 445px;
+    background-color: rgb(92, 40, 3);
+    position: relative;
+    text-align: center;
+    color: wheat;
+    font-size: 20px;
+    border-color: wheat;
+    border-style: dotted;
+    border-width: 3px;
+}
+img#image5{
+    position: absolute;
+    left: 25px;
+    top: 30px;
+    height: 350px;
+    width: 400px;
+}
+
+.slide6{
+    height: 400px;
+    width: 445px;
+    background-color: rgb(92, 40, 3);
+    position: relative;
+    text-align: center;
+    color: wheat;
+    font-size: 20px;
+    border-color: wheat;
+    border-style: dotted;
+    border-width: 3px;
+}
+img#image6{
+    position: absolute;
+    left: 25px;
+    top: 30px;
+    height: 350px;
+    width: 400px;
+}
+
+.slide7{
+    height: 400px;
+    width: 445px;
+    background-color: rgb(92, 40, 3);
+    position: relative;
+    text-align: center;
+    color: wheat;
+    font-size: 20px;
+    border-color: wheat;
+    border-style: dotted;
+    border-width: 3px;
+}
+img#image7{
+    position: absolute;
+    left: 25px;
+    top: 30px;
+    height: 350px;
+    width: 400px;
+}
+
+.slide8{
+    height: 400px;
+    width: 445px;
+    background-color: rgb(92, 40, 3);
+    position: relative;
+    text-align: center;
+    color: wheat;
+    font-size: 20px;
+    border-color: wheat;
+    border-style: dotted;
+    border-width: 3px;
+}
+img#image8{
+    position: absolute;
+    left: 25px;
+    top: 30px;
+    height: 350px;
+    width: 400px;
+}
